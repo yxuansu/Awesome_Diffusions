@@ -18,3 +18,12 @@
 <span id='vision'/>
 
 #### 1. Vision: <a href='#all_catelogue'>[Back to Top]</a>
+
+<span id='image_generation'/>
+
+#### 1.1. Image Generation: 
+To be added.
+
+<span id='object_detection'/>
+
+#### 1.2. Object Detection: 
