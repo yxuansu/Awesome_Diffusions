@@ -29,3 +29,21 @@ To be added.
 #### 1.2. Object Detection: 
 
 * **"DiffusionDet: Diffusion Model for Object Detection"** Shoufa Chen, Peize Sun, Yibing Song, Ping Luo; [[Arxiv]](https://arxiv.org/abs/2211.09788)[[Code]](https://github.com/ShoufaChen/DiffusionDet).
+
+
+****
+
+<span id='language'/>
+
+#### 2. Language: <a href='#all_catelogue'>[Back to Top]</a>
+
+
+****
+
+<span id='vision_and_language'/>
+
+#### 3. Vision and Language: <a href='#all_catelogue'>[Back to Top]</a>
+
+<span id='image_captioning'/>
+
+#### 3.1. Image Captioning: 
