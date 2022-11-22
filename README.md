@@ -27,3 +27,5 @@ To be added.
 <span id='object_detection'/>
 
 #### 1.2. Object Detection: 
+
+* **"DiffusionDet: Diffusion Model for Object Detection"** Shoufa Chen, Peize Sun, Yibing Song, Ping Luo; [[Arxiv]](https://arxiv.org/abs/2211.09788)[[Code]](https://github.com/ShoufaChen/DiffusionDet).
