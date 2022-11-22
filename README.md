@@ -47,3 +47,9 @@ To be added.
 <span id='image_captioning'/>
 
 #### 3.1. Image Captioning: 
+
+* **"Exploring Discrete Diffusion Models for Image Captioning"** Zixin Zhu, Yixuan Wei, Jianfeng Wang, Zhe Gan, Zheng Zhang, Le Wang, Gang Hua, Lijuan Wang, Zicheng Liu, Han Hu; [[Arxiv]](https://arxiv.org/abs/2211.11694)[[Code]](https://github.com/buxiangzhiren/DDCap).
+
+
+
+
