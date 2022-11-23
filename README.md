@@ -9,6 +9,7 @@
     * <a href='#image_generation'>1.1. Text-to-Image Generation</a>
     * <a href='#object_detection'>1.2. Object Detection</a>
 * <a href='#language'>2. Language</a>
+    * <a href='#text_generation'>2.1. Text Generation</a>
 * <a href='#vision_and_language'>3. Vision and Language</a>
     * <a href='#image_captioning'>3.1. Image Captioning</a>
 
@@ -36,6 +37,13 @@
 <span id='language'/>
 
 #### 2. Language: <a href='#all_catelogue'>[Back to Top]</a>
+
+<span id='text_generation'/>
+
+#### 2.1. Text Generation: 
+
+* **"Diffusion-LM Improves Controllable Text Generation"** Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto; [[Arxiv]](https://arxiv.org/abs/2205.14217)[[Code]](https://github.com/xiangli1999/diffusion-lm).
+
 
 
 ****
