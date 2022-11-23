@@ -22,7 +22,7 @@
 <span id='image_generation'/>
 
 #### 1.1. Image Generation: 
-To be added.
+* **"AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities"** Zhongzhi Chen, Guang Liu, Bo-Wen Zhang, Fulong Ye, Qinghong Yang, Ledell Wu; [[Arxiv]](https://arxiv.org/abs/2211.06679)[[Code]](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion).
 
 <span id='object_detection'/>
 
