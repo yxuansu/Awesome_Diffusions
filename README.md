@@ -6,7 +6,7 @@
 
 ### Catalogue:
 * <a href='#vision'>1. Vision</a>
-    * <a href='#image_generation'>1.1. Image Generation</a>
+    * <a href='#image_generation'>1.1. Text-to-Image Generation</a>
     * <a href='#object_detection'>1.2. Object Detection</a>
 * <a href='#language'>2. Language</a>
 * <a href='#vision_and_language'>3. Vision and Language</a>
@@ -21,7 +21,7 @@
 
 <span id='image_generation'/>
 
-#### 1.1. Image Generation: 
+#### 1.1. Text-to-Image Generation: 
 * **"AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities"** Zhongzhi Chen, Guang Liu, Bo-Wen Zhang, Fulong Ye, Qinghong Yang, Ledell Wu; [[Arxiv]](https://arxiv.org/abs/2211.06679)[[Code]](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion).
 
 <span id='object_detection'/>
