@@ -43,8 +43,7 @@
 #### 2.1. Text Generation: 
 
 * **"Diffusion-LM Improves Controllable Text Generation"** Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto; [[Arxiv]](https://arxiv.org/abs/2205.14217)[[Code]](https://github.com/xiangli1999/diffusion-lm).
-
-
+* **"DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models"** Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu; [[Arxiv]](https://arxiv.org/pdf/2211.15029.pdf)[[Code]](https://github.com/Hzfinfdu/Diffusion-BERT).
 
 ****
 
