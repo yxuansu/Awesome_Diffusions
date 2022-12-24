@@ -32,7 +32,7 @@
 
 #### 1.2. Object Detection: 
 
-* **"DiffusionDet: Diffusion Model for Object Detection"** Shoufa Chen, Peize Sun, Yibing Song, Ping Luo; [[Arxiv]](https://arxiv.org/abs/2211.09788)[[Code]](https://github.com/ShoufaChen/DiffusionDet)
+* **"DiffusionDet: Diffusion Model for Object Detection"** Shoufa Chen, Peize Sun, Yibing Song, Ping Luo; [[arxiv]](https://arxiv.org/abs/2211.09788)[[code]](https://github.com/ShoufaChen/DiffusionDet)
 
 
 ****
