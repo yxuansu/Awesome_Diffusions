@@ -12,6 +12,7 @@
     * <a href='#text_generation'>2.1. Text Generation</a>
 * <a href='#vision_and_language'>3. Vision and Language</a>
     * <a href='#image_captioning'>3.1. Image Captioning</a>
+* <a href='#others'>4. Other Topics</a>
 
 
 ****
@@ -65,5 +66,12 @@
 * **"Exploring Discrete Diffusion Models for Image Captioning"** Zixin Zhu, Yixuan Wei, Jianfeng Wang, Zhe Gan, Zheng Zhang, Le Wang, Gang Hua, Lijuan Wang, Zicheng Liu, Han Hu; [[arxiv]](https://arxiv.org/abs/2211.11694)[[code]](https://github.com/buxiangzhiren/DDCap)
 
 
+****
+
+<span id='others'/>
+
+#### 4. Other Topics: <a href='#all_catelogue'>[Back to Top]</a>
+
+* **"CARD: Classification and Regression Diffusion Models"** Xizewen Han, Huangjie Zheng, Mingyuan Zhou; [[arxiv]](https://arxiv.org/abs/2206.07275)[[code]](https://github.com/XzwHan/CARD)
 
 
