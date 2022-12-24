@@ -46,6 +46,7 @@
 * **"DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models"** Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu; [[Arxiv]](https://arxiv.org/pdf/2211.15029.pdf)[[Code]](https://github.com/Hzfinfdu/Diffusion-BERT).
 * **"GENIE: Large Scale Pre-training for Generation with Diffusion Model"** Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Weizhu Chen, Nan Duan; [[Arxiv]](https://arxiv.org/pdf/2212.11685.pdf)[[Code]]().
 * **"Difformer: Empowering Diffusion Model on Embedding Space for Text Generation"** Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu; [[Arxiv]](https://download.arxiv.org/pdf/2212.09412v1)[[Code]]().
+* **"DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models"** Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong; [[Arxiv]](https://arxiv.org/pdf/2210.08933.pdf)[[Code]](https://github.com/Shark-NLP/DiffuSeq).
 
 
 ****
