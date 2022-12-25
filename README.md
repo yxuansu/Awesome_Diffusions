@@ -26,6 +26,7 @@
 #### 1.1. Text-to-Image Generation: 
 * **"AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities"** Zhongzhi Chen, Guang Liu, Bo-Wen Zhang, Fulong Ye, Qinghong Yang, Ledell Wu; [[arxiv]](https://arxiv.org/abs/2211.06679)[[code]](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion)
 * **"Hierarchical Text-Conditional Image Generation with CLIP Latents"** Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen; [[arxiv]](https://arxiv.org/abs/2204.06125)
+* **"High-Resolution Image Synthesis with Latent Diffusion Models"** Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer; [[arxiv]](https://arxiv.org/pdf/2112.10752.pdf)
 
 
 
