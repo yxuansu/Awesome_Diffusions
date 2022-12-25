@@ -13,6 +13,7 @@
 * <a href='#vision_and_language'>3. Vision and Language</a>
     * <a href='#image_captioning'>3.1. Image Captioning</a>
 * <a href='#others'>4. Other Topics</a>
+* <a href='#blogs'>5. Blogs</a>
 
 
 ****
@@ -74,5 +75,14 @@
 #### 4. Other Topics: <a href='#all_catelogue'>[Back to Top]</a>
 
 * **"CARD: Classification and Regression Diffusion Models"** Xizewen Han, Huangjie Zheng, Mingyuan Zhou; [[arxiv]](https://arxiv.org/abs/2206.07275)[[code]](https://github.com/XzwHan/CARD)
+
+
+****
+
+<span id='blogs'/>
+
+#### 5. Blogs: <a href='#all_catelogue'>[Back to Top]</a>
+
+* **"The Illustrated Stable Diffusion"** Jay Alammar; [[link]](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 
