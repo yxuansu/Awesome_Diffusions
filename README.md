@@ -53,6 +53,7 @@
 * **"GENIE: Large Scale Pre-training for Generation with Diffusion Model"** Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Weizhu Chen, Nan Duan; [[arxiv]](https://arxiv.org/pdf/2212.11685.pdf)
 * **"Difformer: Empowering Diffusion Model on Embedding Space for Text Generation"** Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu; [[arxiv]](https://download.arxiv.org/pdf/2212.09412v1)
 * **"DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models"** Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong; [[arxiv]](https://arxiv.org/pdf/2210.08933.pdf)[[code]](https://github.com/Shark-NLP/DiffuSeq)
+* **"Latent Diffusion for Language Generation"** Justin Lovelace, Varsha Kishore, Chao Wan, Eliot Shekhtman, Kilian Weinberger; [[arxiv]](https://arxiv.org/abs/2212.09462)
 
 
 ****
