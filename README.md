@@ -85,5 +85,5 @@
 #### 5. Blogs: <a href='#all_catelogue'>[Back to Top]</a>
 
 * **"The Illustrated Stable Diffusion"** Jay Alammar; [[link]](https://jalammar.github.io/illustrated-stable-diffusion/)
-
+* **"How diffusion models work: the math from scratch"** Sergios Karagiannakos, Nikolas Adaloglou; [[link]](https://theaisummer.com/diffusion-models/)
 
