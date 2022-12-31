@@ -1,4 +1,4 @@
-### I only put the resources (e.g. papers, blogs, etc.) that I read and found interesting in this list. So the update speed would be depending on my speed of reading stuffs.
+### I only put the resources (e.g. papers, blogs, etc.) that I have read and found interesting in this list. So the update speed would be depending on my speed of reading stuffs.
 
 ****
 
