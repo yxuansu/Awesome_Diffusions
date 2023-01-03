@@ -8,6 +8,7 @@
 * <a href='#vision'>1. Vision</a>
     * <a href='#image_generation'>1.1. Text-to-Image Generation</a>
     * <a href='#object_detection'>1.2. Object Detection</a>
+    * <a href='#image_gen'>1.3. Image Generation</a>
 * <a href='#language'>2. Language</a>
     * <a href='#text_generation'>2.1. Text Generation</a>
 * <a href='#vision_and_language'>3. Vision and Language</a>
@@ -36,6 +37,13 @@
 #### 1.2. Object Detection: 
 
 * **"DiffusionDet: Diffusion Model for Object Detection"** Shoufa Chen, Peize Sun, Yibing Song, Ping Luo; [[arxiv]](https://arxiv.org/abs/2211.09788)[[code]](https://github.com/ShoufaChen/DiffusionDet)
+
+
+<span id='image_gen'/>
+
+#### 1.3. Image Generation: 
+
+* **"DENOISING DIFFUSION IMPLICIT MODELS"** Jiaming Song, Chenlin Meng, Stefano Ermon; [[arxiv]](https://arxiv.org/pdf/2010.02502.pdf)[[code]](https://github.com/ermongroup/ddim)
 
 
 ****
