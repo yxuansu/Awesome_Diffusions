@@ -14,7 +14,7 @@
 * <a href='#vision_and_language'>3. Vision and Language</a>
     * <a href='#image_captioning'>3.1. Image Captioning</a>
 * <a href='#others'>4. Other Topics</a>
-* <a href='#blogs'>5. Blogs</a>
+* <a href='#blogs'>5. Blogs and Other Resources</a>
 
 
 ****
@@ -90,8 +90,9 @@
 
 <span id='blogs'/>
 
-#### 5. Blogs: <a href='#all_catelogue'>[Back to Top]</a>
+#### 5. Blogs and Other Resources: <a href='#all_catelogue'>[Back to Top]</a>
 
 * **"The Illustrated Stable Diffusion"** Jay Alammar; [[link]](https://jalammar.github.io/illustrated-stable-diffusion/)
 * **"How diffusion models work: the math from scratch"** Sergios Karagiannakos, Nikolas Adaloglou; [[link]](https://theaisummer.com/diffusion-models/)
+* **Github Repo for [minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion)**
 
