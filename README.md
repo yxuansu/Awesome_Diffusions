@@ -45,6 +45,8 @@
 
 * **"DENOISING DIFFUSION IMPLICIT MODELS"** Jiaming Song, Chenlin Meng, Stefano Ermon; [[arxiv]](https://arxiv.org/pdf/2010.02502.pdf)[[code]](https://github.com/ermongroup/ddim)
 
+* **"Adding Conditional Control to Text-to-Image Diffusion Models"** Lvmin Zhang and Maneesh Agrawala; [[arxiv]](https://arxiv.org/pdf/2302.05543.pdf)[[code]](https://github.com/lllyasviel/ControlNet)
+
 
 ****
 
